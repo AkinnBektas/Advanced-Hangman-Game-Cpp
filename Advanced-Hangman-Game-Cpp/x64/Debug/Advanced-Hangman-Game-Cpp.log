@@ -1,0 +1,8 @@
+﻿  AdvancedHangmanGame.cpp
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(131,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(182,12): warning C4101: 'ColorIndex': yerel değişken başvurusu kaldırıldı
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(280,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(295,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(448,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\Advanced-Hangman-Game-Cpp\AdvancedHangmanGame.cpp(644,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Advanced-Hangman-Game-Cpp.vcxproj -> C:\Users\ASUS\Desktop\Advanced-Hangman-Game-Cpp\x64\Debug\Advanced-Hangman-Game-Cpp.exe
